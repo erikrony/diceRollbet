@@ -1,0 +1,11 @@
+C:\Users\Erik Alves\Desktop\Programação C\AppSimples1\bin\Debug\AppSimples1.exe.config
+C:\Users\Erik Alves\Desktop\Programação C\AppSimples1\bin\Debug\AppSimples1.exe
+C:\Users\Erik Alves\Desktop\Programação C\AppSimples1\bin\Debug\AppSimples1.pdb
+C:\Users\Erik Alves\Desktop\Programação C\AppSimples1\obj\Debug\AppSimples1.csproj.AssemblyReference.cache
+C:\Users\Erik Alves\Desktop\Programação C\AppSimples1\obj\Debug\AppSimples1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erik Alves\Desktop\Programação C\AppSimples1\obj\Debug\AppSimples1.Form1.resources
+C:\Users\Erik Alves\Desktop\Programação C\AppSimples1\obj\Debug\AppSimples1.Properties.Resources.resources
+C:\Users\Erik Alves\Desktop\Programação C\AppSimples1\obj\Debug\AppSimples1.csproj.GenerateResource.cache
+C:\Users\Erik Alves\Desktop\Programação C\AppSimples1\obj\Debug\AppSimples1.csproj.CoreCompileInputs.cache
+C:\Users\Erik Alves\Desktop\Programação C\AppSimples1\obj\Debug\AppSimples1.exe
+C:\Users\Erik Alves\Desktop\Programação C\AppSimples1\obj\Debug\AppSimples1.pdb
